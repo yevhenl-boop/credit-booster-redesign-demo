@@ -1,0 +1,1 @@
+import{i as e,s as t}from"./motion.CpOrMNmo.js";document.querySelectorAll(`.aj-features`).forEach(n=>{let[r,i]=n.querySelectorAll(`[data-features-art]`);if(!r||!i)return;let a={y:16,duration:.45,stagger:.15};if(e()){t(r,[r],{...a,amount:.4}),t(i,[i],{...a,amount:.4});return}t(r,[r,i],{...a,amount:.25})});

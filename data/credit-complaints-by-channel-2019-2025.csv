@@ -1,0 +1,11 @@
+# Source: CFPB Consumer Complaint Database (public domain), analysis by Credit Booster AI. Pulled 2026-07-16.
+# Full methodology: https://creditbooster.ai/learn/state-of-credit-complaints-2026/
+# Free to reuse with attribution to Credit Booster AI.
+year,web_index_2020_eq_100,phone_index_2020_eq_100
+2019,47,84
+2020,100,100
+2021,111,92
+2022,218,180
+2023,381,170
+2024,868,121
+2025,1771,106

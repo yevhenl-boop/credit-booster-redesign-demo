@@ -1,0 +1,1 @@
+import{t as e}from"./investor-lead-modal.CalsZ4Me.js";e(`investors-v4`);

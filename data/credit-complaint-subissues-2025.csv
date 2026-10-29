@@ -1,0 +1,12 @@
+# Source: CFPB Consumer Complaint Database (public domain), analysis by Credit Booster AI. Pulled 2026-07-16.
+# Full methodology: https://creditbooster.ai/learn/state-of-credit-complaints-2026/
+# Free to reuse with attribution to Credit Booster AI.
+sub_issue,share_of_credit_complaints_pct,complaints
+"Information belongs to someone else",39.99,1923820
+"Reporting company used your report improperly",17.61,847184
+"Their investigation did not fix an error on your report",10.45,502506
+"Account information incorrect",9.88,475483
+"Investigation took more than 30 days",6.02,289490
+"Account status incorrect",5.23,251603
+"Credit inquiries on your report that you don't recognize",5.12,246463
+"Personal information incorrect",2.15,103567
