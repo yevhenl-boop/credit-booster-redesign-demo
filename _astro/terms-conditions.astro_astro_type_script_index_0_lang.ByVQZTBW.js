@@ -1,0 +1,1 @@
+import"./legal-main.CzFJ8eLC.js";
