@@ -1,0 +1,1 @@
+import{n as e}from"./interactions.DZaPjAyj.js";function t(){e();let t=document.querySelector(`.article-page .article-hero-title`);t&&!t.classList.contains(`cb-headline-ready`)&&(t.setAttribute(`data-no-text-motion`,``),t.classList.add(`article-title-motion-fallback`))}export{t};
