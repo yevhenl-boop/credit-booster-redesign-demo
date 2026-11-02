@@ -1,1 +1,0 @@
-import{n as e}from"./interactions.DZaPjAyj.js";var t=document.querySelector(`.article-faq`);t&&e(t);
