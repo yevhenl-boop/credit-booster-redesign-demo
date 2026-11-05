@@ -1,0 +1,1 @@
+import"./legal-main.V2Ws7eVG.js";
